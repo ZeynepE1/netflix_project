@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+
+#form-container{
+    max-width: 1240px;
+    height: 1036px ;
+    margin: auto;
+    margin-top: 30px;
+    background-color: rgba(0, 0,0, 0.3);
+
+}
+
+#form-title{
+    color: white;
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 3.2rem;
+    letter-spacing: 5%
+
+}
+
+
+span{
+    color: red;
+}
+
+#form-description{
+    font-size: 1.4rem;
+    font-family: 'Sorts Mill Goudy', serif;
+
+}
+#form-header{
+    text-align: center;
+}
+
+#survey-form-container{
+    max-width: 500px;
+    height: 897px;
+    background-color: rgba(0, 0,0, 0.8);
+    margin: auto;
+    padding: 10px;
+}
+
+#survey-form{
+    max-width:  460px; 
+    height: 800px;
+    margin: auto;
+    font-size: 1rem;
+    background-color: chartreuse;
+    
+}
